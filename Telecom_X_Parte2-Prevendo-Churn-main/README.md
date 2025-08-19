@@ -195,7 +195,7 @@ A análise e a modelagem preditiva foram eficazes em extrair insights valiosos d
 
 ---
 
-### **Autor:** Raphael Bertone
+### **Autor:** MAtheus Alfaia
 
-[LinkedIn](https://www.linkedin.com/in/raphaelbertone/)  - 
-[GiftHub](https://github.com/Raphaelbertone)
+[LinkedIn](https://www.linkedin.com/in/matheus-alfaia-engsoft/)  - 
+[GiftHub](https://github.com/Matheus-Alfaia)
